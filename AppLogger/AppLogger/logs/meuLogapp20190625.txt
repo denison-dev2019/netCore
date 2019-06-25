@@ -1,0 +1,5 @@
+2019-06-25 01:01:47.078 -03:00 [INF] Olá, Serilog !
+2019-06-25 01:01:47.241 -03:00 [DBG] Dividindo 10 por 0
+2019-06-25 01:01:47.705 -03:00 [ERR] Alguma coisa deu errado...
+System.DivideByZeroException: Attempted to divide by zero.
+   at AppLogger.Controllers.HomeController.Privacy() in C:\Users\denison\source\repos\AppLogger\AppLogger\Controllers\HomeController.cs:line 34
